@@ -1,12 +1,12 @@
 # projetofacul
 
-# Projeto realizado na aula de Aplicações para internet com o professor Carlos Majer, todas as quintas feiras.
+<h4># Projeto realizado na aula de Aplicações para internet com o professor Carlos Majer, todas as quintas feiras.</h4>
 
-***Grupo UniByte***
---    Gabriel   --
---   Guilherme  --
---  Jonaderson  --
---    Marcio    --
---   Priscila   --
+<p>***Grupo UniByte***<br>
+--    Gabriel   --<br>
+--   Guilherme  --<br>
+--  Jonaderson  --<br>
+--    Marcio    --<br>
+--   Priscila   --</p>
 
-# Curso: Análise e Desenvolvimento de Sistemas - 1°C.
+<h4>#Curso: Análise e Desenvolvimento de Sistemas - 1°C.</h4>
